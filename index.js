@@ -88,8 +88,7 @@ function renderCurrentTime() {
 
     </style>
 
-    <script>
-    </script>
+    <script src="index.js"></script>
 </head>
 
 <body>
