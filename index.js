@@ -42,7 +42,7 @@ function renderCurrentTime() {
         }
 
         body {
-            background-image: url("");
+            background-image: url("youngnack01.JPG");
             background-position: center;
 
             color: white;
@@ -95,9 +95,7 @@ function renderCurrentTime() {
 <body>
     <div class="main">
         <div class="time">12:00</div>
-        <div class="greeting">Hello, Yungsang!</div>
-        <div class="todo">주 3회 운동하기!</div>
-    </div>
+        <div class="greeting">Hello, Korea!!
     <div class="quote">
         <div class="author">- 명언의 저자 -</div>
         <div class="content">" 명언의 내용 "</div>
